@@ -1,4 +1,4 @@
-# stats_CentralLimitTheorem_RandomVariableDistribution
+# stats_clt_rvdistribution
 
 Calculus based Probability and Statistics for Engineers and Scientists. 
 In this lab, I explore the Central Limit Theorem and random variable generation. I use functions of random variables to generate various
